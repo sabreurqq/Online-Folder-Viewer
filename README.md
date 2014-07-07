@@ -19,7 +19,7 @@ Online-Folder-Viewer
 * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload/tree/master/js)
 *[moment](https://github.com/moment/moment)
  
-### Front-Back Libraries
+### Back-End Libraries
 * com.fasterxml.jackson 2.4.1
 * commons-fileupload 1.3.1
 
