@@ -22,3 +22,8 @@ Online-Folder-Viewer
 ##### Front-Back Libraries
 * com.fasterxml.jackson 2.4.1
 * commons-fileupload 1.3.1
+
+###### Try Me
+1. Download OnlineFolderViewer.war
+2. Deploy it 
+3. Try it
